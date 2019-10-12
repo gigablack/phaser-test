@@ -1,0 +1,17 @@
+{
+  "name": "phaserGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Gustavo Bethelmy <tenchu96@gmail.com> (https://github.com/gigablack)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3",
+    "phaser": "^3.19.0"
+  }
+}
