@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^1.19.3",
-    "phaser": "^3.19.0"
+    "phaser": "^3.55.2"
   }
 }
